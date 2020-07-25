@@ -2,7 +2,7 @@
 
        0%{ left: 50%;
            top: 0;
-           margin-left: -105px;
+           margin-left: -125px;
            background-color: red;
          }
     12.5%{ left: 75%;
@@ -11,7 +11,7 @@
          }
       25%{  left: 100%;
            top: 50%;
-           margin-left: -210px;
+           margin-left: -250px;
            background-color: rgb(255, 158, 158);
          }
     37.5%{  left: 75%;
